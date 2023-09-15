@@ -1,0 +1,13 @@
+﻿@using SimpleVideoGameLibrary.Client.Models;
+<div class="tank">
+    <div class="water" style="height: @((int)((Tank.Load/Tank.Capacity) * 100))%;"></div>
+</div>
+
+
+
+
+@code {
+    [Parameter]
+    public Tank Tank { get; set; } = new();
+}
+

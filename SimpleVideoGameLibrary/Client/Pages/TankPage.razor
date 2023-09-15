@@ -1,0 +1,21 @@
+﻿@page "/tanks"
+@using SimpleVideoGameLibrary.Client.Models;
+
+@foreach (var tank in tanks)
+{
+    <TankDrawing Tank="tank"></TankDrawing>
+}
+
+
+
+
+@code {
+    public List<Tank> tanks { get; set; } = new();
+
+    protected override void OnInitialized()
+    {
+        tanks.Add(new Tank() { Capacity = 50, Load = 10});
+        tanks.Add(new Tank() { Capacity = 60, Load = 30});
+    }
+}
+

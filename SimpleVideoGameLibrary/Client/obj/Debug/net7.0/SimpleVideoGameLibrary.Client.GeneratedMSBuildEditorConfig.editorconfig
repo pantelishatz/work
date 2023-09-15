@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SimpleVideoGameLibrary.Client
+build_property.RootNamespace = SimpleVideoGameLibrary.Client
+build_property.ProjectDir = C:\Users\dev3\source\repos\SimpleVideoGameLibrary\SimpleVideoGameLibrary\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dev3\source\repos\SimpleVideoGameLibrary\SimpleVideoGameLibrary\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Pages/AthensCityPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXRoZW5zQ2l0eVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Pages/Menu.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Pages/TankPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFua1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Pages/VideoGames.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9HYW1lcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Pages/TankDrawing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFua0RyYXdpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vsxhi4tynw
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4jjth56nmq
+
+[C:/Users/dev3/source/repos/SimpleVideoGameLibrary/SimpleVideoGameLibrary/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-i8l9hwh5lj

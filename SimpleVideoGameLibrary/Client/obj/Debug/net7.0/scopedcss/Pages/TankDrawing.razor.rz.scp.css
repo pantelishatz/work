@@ -1,0 +1,22 @@
+.tank[b-vsxhi4tynw] {
+    /* size */
+    width: 150px;
+    height: 300px;
+    /* colors */
+    border: 2px solid black;
+    /*border-top: 0;*/
+    background: white;
+    position: relative; /* to allow positioning the water at bottom */
+
+    display: inline-block; /* so the div doesn't wrap */
+    margin: 10px; /* space between divs */
+}
+
+    .tank .water[b-vsxhi4tynw] {
+        position: absolute;
+        /* color of water */
+        background: #cafc03;
+        /* water position */
+        width: 100%;
+        bottom: 0;
+    }
